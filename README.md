@@ -1,0 +1,2 @@
+# NLP-Movie-Reccomendation-System
+This a movie recommendation system I created with a couple teammates that uses LTSM Neural Networks to classify movies ratings based off of their critic's consensus, and their genres based off of their descriptions. This system then quizzes the user to find out what genre movie the user would most likely want to watch and recommends the best movies of that genre to them.
