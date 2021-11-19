@@ -3,6 +3,7 @@ This a movie recommendation system I created with a couple teammates that uses L
 
 Model 1:
 This model is trained on a dataset with the critics consensus of movies and their IMDB Ratings found on the Keras IMDB Dataset. Once it is trained, I get the model to make its predictions on the Rotten Tomato Dataset (The main one used for the movie database).
+
 Model Summary:
 "sequential"
 Layer Type       Output Shape        Param #
@@ -15,6 +16,7 @@ Non-Trainable Params : 0
 
 Model 2:
 This model is trained on the Kaggle IMDB Dataset with the movie descriptions and their genres. Once it is trained, I get the model to make its predictions on the same Rotten Tomato Dataset. It gives each movie a classification of genres based on percentages.
+
 Model Summary:
 "sequential"
 Layer Type       Output Shape        Param #
