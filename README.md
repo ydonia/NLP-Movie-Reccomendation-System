@@ -1,5 +1,5 @@
 # NLP-Movie-Reccomendation-System
-This a movie recommendation system I created with a couple teammates that uses LTSM Neural Networks to classify movies ratings based off of their critic's consensus, and their genres based off of their descriptions. This system then quizzes the user to find out what genre movie the user would most likely want to watch and recommends the best movies of that genre to them.
+This a movie recommendation system that uses LTSM Neural Networks to classify movies ratings based off of their critic's consensus, and their genres based off of their descriptions. This system then quizzes the user to find out what genre movie the user would most likely want to watch and recommends the best movies of that genre to them.
 
 Model 1:
 This model is trained on a dataset with the critics consensus of movies and their IMDB Ratings found on the Keras IMDB Dataset. Once it is trained, I get the model to make its predictions on the Rotten Tomato Dataset (The main one used for the movie database).
